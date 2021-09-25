@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ### My stats 👌
 
 ![Korisss's github stats](https://github-readme-stats.vercel.app/api?username=Korisss&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korisss&layout=compact&theme=tokyonight)
