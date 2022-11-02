@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SkyMP in the Red House team
 - 🌱 I'm currently learning the Go language
 
 <!--
